@@ -42,24 +42,11 @@ Also, don't forget to add the '/' path separator at the end of folder values.
   <option name="minimaps" value="graphics/minimaps/"/>
   <option name="maps" value="maps/"/>
   <option name="sfx" value="sfx/"/>
-  <!-- option name="newQuestSfx" value="system/levelup.ogg"/ -->
-  <!-- option name="completeQuestSfx" value="system/levelup.ogg"/ -->
-  <option name="attackSfxFile" value="weapons/knives/knife-hit1.ogg"/>
-  <option name="missSfxFile" value="fist-swish.ogg"/>
+  <!-- default sounds if no sounds are defined for the hit and miss events of a weapon
+       disabled for now because the current sound is too specific and loud  -->
+  <option name="attackSfxFile" value=""/>
+  <option name="missSfxFile" value=""/>
   <option name="music" value="music/"/>
   <option name="wallpapers" value="graphics/images/"/>
   <option name="wallpaperFile" value="login_wallpaper.png"/>
-  <option name="newQuestEffectId" value="47"/>
-  <option name="completeQuestEffectId" value="48"/>
-  <!--
-    ManaPlus tries to load skillsFile first, then skillsFile2 if it failed.
-    In old versions, ea-skills.xml before skills.xml, now it is swapped.
-    This config setting makes any version of ManaPlus DTRT.
-
-    It can be removed once ea-skills.xml is not in zips
-    or min ManaPlus version is bumped to v1.4.1.18 (which is also the
-    first version that supports <include> in all files)
-    ... or would it be better to specify all the files?
-  -->
-  <option name="skillsFile" value="skills.xml"/>
 </configuration>
