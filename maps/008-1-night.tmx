@@ -131,7 +131,7 @@
    <properties>
     <property name="eA_death" value="20"/>
     <property name="max_beings" value="3"/>
-    <property name="monster_id" value="95"/>
+    <property name="monster_id" value="8008"/>
    </properties>
   </object>
  </objectgroup>

@@ -57,28 +57,28 @@
    <properties>
     <property name="eA_death" value="2000"/>
     <property name="max_beings" value="2"/>
-    <property name="monster_id" value="37"/>
+    <property name="monster_id" value="8001"/>
    </properties>
   </object>
   <object name="FireLizard" type="spawn" x="1152" y="1920" width="96" height="96">
    <properties>
     <property name="eA_death" value="2000"/>
     <property name="max_beings" value="2"/>
-    <property name="monster_id" value="37"/>
+    <property name="monster_id" value="8001"/>
    </properties>
   </object>
   <object name="FireLizard" type="spawn" x="1408" y="3616" width="96" height="96">
    <properties>
     <property name="eA_death" value="2000"/>
     <property name="max_beings" value="2"/>
-    <property name="monster_id" value="37"/>
+    <property name="monster_id" value="8001"/>
    </properties>
   </object>
   <object name="LavaSlime" type="spawn" x="0" y="0">
    <properties>
     <property name="eA_spawn" value="20"/>
     <property name="max_beings" value="30"/>
-    <property name="monster_id" value="113"/>
+    <property name="monster_id" value="8010"/>
    </properties>
   </object>
   <object name="FireGoblin" type="spawn" x="0" y="0">

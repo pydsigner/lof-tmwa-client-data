@@ -100,7 +100,7 @@
   <object name="Reaper" type="spawn" x="0" y="0">
    <properties>
     <property name="max_beings" value="15"/>
-    <property name="monster_id" value="65"/>
+    <property name="monster_id" value="1068"/>
    </properties>
   </object>
   <object name="Archant" type="spawn" x="0" y="0">
