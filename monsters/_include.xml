@@ -126,5 +126,22 @@
   <include name="monsters/monster1129_GeneralTerogan.xml"/>
   <include name="monsters/monster1130_Moonshroom.xml"/>
   <include name="monsters/monster1131_ManaBug.xml"/>
-  <include name="monsters/monster1132_LavaSlime.xml"/>
+  <!-- Use LoF's Lava Slime instead of TMW's -->
+  <!--<include name="monsters/monster1132_LavaSlime.xml"/>-->
+  <include name="monsters/monster8000_EasterFluffy.xml"/>
+  <include name="monsters/monster8001_FireLizard.xml"/>
+  <include name="monsters/monster8002_SnakeLord.xml"/>
+  <include name="monsters/monster8003_Duck.xml"/>
+  <include name="monsters/monster8004_Reaper2.xml"/>
+  <include name="monsters/monster8005_BallLightning.xml"/>
+  <include name="monsters/monster8006_TheLost.xml"/>
+  <include name="monsters/monster8007_PunkSkeleton.xml"/>
+  <include name="monsters/monster8008_ShadoSnake.xml"/>
+  <include name="monsters/monster8009_LavaSlime.xml"/>
+  <include name="monsters/monster8010_SnowFlake.xml"/>
+  <include name="monsters/monster8011_Penguin.xml"/>
+  <include name="monsters/monster8012_TreasureBox.xml"/>
+  <include name="monsters/monster8013_BlackSlime.xml"/>
+  <include name="monsters/monster8014_FafiDragon.xml"/>
+  <!--<include name="monsters/"/>-->
 </monsters>

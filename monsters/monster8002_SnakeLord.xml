@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<monsters offset="0">
+  <monster id="8002" name="Snake Lord">
+    <!-- No data found for this mob, but it's in server-side mob_db.
+         This file will be kept here as a place holder. -->
+    <sprite></sprite>
+    <sound event="hit"></sound>
+    <sound event="miss"></sound>
+  </monster>
+</monsters>
