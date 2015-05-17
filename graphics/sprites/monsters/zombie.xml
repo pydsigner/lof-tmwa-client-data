@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<sprite variants="56" variant_offset="1">
+<sprite>
   <imageset name="base" src="graphics/sprites/monsters/zombie.png" width="64" height="64"/>
   <action name="stand" imageset="base">
     <animation direction="down">
@@ -30,9 +30,9 @@
     </animation>
   </action>
   <action name="dead" imageset="base">
-    <animation>
+    <animation direction="down">
       <sequence start="44" end="55" delay="100"/>
-      <frame index="55" delay="5000"/>
+      <frame index="55" delay="0"/>
     </animation>
   </action>
   <action name="attack" imageset="base">
