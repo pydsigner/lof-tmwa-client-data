@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<items>
+  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+    <its:translateRule selector="//item/@name" translate="yes"/>
+    <its:translateRule selector="//item/@description" translate="yes"/>
+    <its:translateRule selector="//item/@effect" translate="yes"/>
+    <its:translateRule selector="//*" translate="no"/>
+  </its:rules>
+  <item id="8037" image="pets/fairy-blue.png" name="Green Fairy" description="A green Fairy." effect="Luck +50 / HP +100" type="equip-ring" weight="1">
+    <sprite>pets/fairy-green.xml</sprite>
+  </item>
+</items>
