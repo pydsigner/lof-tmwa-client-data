@@ -838,7 +838,7 @@
     <property name="eA_death" value="0"/>
     <property name="ea_spawn" value="0"/>
     <property name="max_beings" value="1"/>
-    <property name="monster_id" value="46"/>
+    <property name="monster_id" value="8003"/>
    </properties>
   </object>
  </objectgroup>

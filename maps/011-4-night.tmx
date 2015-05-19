@@ -36,7 +36,7 @@
    <properties>
     <property name="eA_death" value="30000"/>
     <property name="eA_spawn" value="100000"/>
-    <property name="monster_id" value="8008"/>
+    <property name="monster_id" value="8007"/>
    </properties>
   </object>
   <object name="AzulSlime" type="spawn" x="2368" y="3040" width="1280" height="1280">
@@ -128,7 +128,7 @@
     <property name="eA_death" value="0"/>
     <property name="eA_spawn" value="0"/>
     <property name="max_beings" value="40"/>
-    <property name="monster_id" value="8009"/>
+    <property name="monster_id" value="8008"/>
    </properties>
   </object>
   <object name="WitchGuard" type="spawn" x="0" y="0">
