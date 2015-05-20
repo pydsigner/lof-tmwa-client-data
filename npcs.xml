@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!--
+    See here for documentation: http://manaplus.org/npcs.xml
+-->
+<npcs>
+  <include name="npcs/_include.xml"/>
+</npcs>

@@ -1,0 +1,29 @@
+This repository is a fork of git://github.com/Pihro/lof-tmwa-client-data.git,
+which contains client-side data for running a game based on The Mana World
+called Land of Fire.
+
+Technically speaking, none of the client-side data is broken, however many
+changes have taken place in TMW's client-side data. A future content-sync
+with TMW may take place (though is not garunteed), but for that to happen
+with minimal grunt-work, we need to ensure we use the same layout that they
+do within our own data. To do that, I am making the following changes:
+
+* Import graphics and client-side data for TMW's mobs and items
+* Adjust data for LoF-specific items and mobs to fit TMW's new format
+* Import new graphics from TMW.
+* Import client-side map data from TMW that does not conflict with our map
+  data. This does not garuntee that new TMW maps will appear in LoF.
+
+If you are interested in helping, I go by the name Itchy Demon in LoF and
+Piki on Freenode IRC. In addition, you may join #landoffire on Freenode to
+discuss in real-time with other LoF contributors on what needs done.
+
+
+Cheers!
+
+--ItchyDemon
+
+P.S. I am not an admin or GM, I have no special powers within the LoF project
+     other than knowing how to fix bugs, so please don't ask me for anything!
+     Content requests should be posted to the forum or sent to the admins on
+     IRC or in-game.
