@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<monsters offset="0">
-    <monster id="8006" name="The Lost">
-    <sprite>monsters/skeleton.xml|#aca379</sprite>
-    <sprite>equipment/chest/robe-male.xml|#333333</sprite>
-  </monster>
-</monsters>
